@@ -59,128 +59,19 @@
 |Midterms (Quizes)|6     |30        |
 |Final exam (Student presentations)|1|50|
 |Total            |21    |100       |
-
-Percentage of semester activities contributing grade succes
-
- 
-
-50
-
-Percentage of final exam contributing grade succes
+|Percentage of semester activities contributing grade succes||50|
+|Percentage of final exam contributing grade success||50|
+|Total            |21    |100       |
 
  
 
-50
-
-Total
-
-21
-
-%100
-
+## Workload and ECTS Calculation
  
-
-Workload and ECTS Calculation
-
- 
-
-Activities
-
-Number
-
-Duration (Hour)
-
-Total Work Load
-
-Course Duration (x14)
-
-14
-
-3
-
-42
-
-Laboratory
-
- 
-
- 
-
- 
-
-Application
-
- 
-
- 
-
- 
-
-Specific practical training
-
- 
-
- 
-
- 
-
- Field activities
-
- 
-
- 
-
- 
-
-Study Hours Out of Class (Preliminary work, reinforcement, ect)
-
-12
-
-2
-
-24
-
-Presentation / Seminar Preparation
-
- 
-
- 
-
- 
-
-Project
-
- 
-
- 
-
- 
-
-Home assignment
-
- 
-
- 
-
- 
-
-Midterms ( Study duration )
-
-6
-
-2
-
-12
-
-Final Exam (Study duration)
-
-1
-
-10
-
-10
-
-Total Work Load
-
-ECTS 88
+|Activities|Number|Duration (Hour)|Total Work Load|
+|----------|------|---------------|---------------|
+|Course Duration (x14)|14|3       |42             |
+|Study Hours Out of Class (Preliminary work, reinforcement, ect)|12|2|24|
+|Midterms ( Study duration )|6|2  |12             |
+|Final Exam (Study duration)|1|10 |10             |
+|Total Work Load| |               |ECTS 88        |
 
