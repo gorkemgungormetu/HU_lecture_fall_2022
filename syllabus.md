@@ -49,87 +49,16 @@
 
  
 
-Assessment Methods
+## Assessment Methods
 
  
 
-Course Activities
-
-Number
-
-Percentage
-
-Attendance
-
-14
-
-20
-
-Laboratory
-
- 
-
- 
-
-Application
-
- 
-
- 
-
-Field activities
-
- 
-
- 
-
-Specific practical training
-
- 
-
- 
-
-Assignments
-
- 
-
- 
-
-Presentation
-
- 
-
- 
-
-Project
-
- 
-
- 
-
-Seminar
-
- 
-
- 
-
-Midterms (Quizes)
-
-6
-
-30
-
-Final exam (Student presentations)
-
-1
-
-50
-
-Total
-
-21
-
-%100
+|Course Activities|Number|Percentage|
+|-----------------|------|----------|
+|Attendance       |14    |20        |
+|Midterms (Quizes)|6     |30        |
+|Final exam (Student presentations)|1|50|
+|Total            |21    |100       |
 
 Percentage of semester activities contributing grade succes
 
