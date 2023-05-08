@@ -12,41 +12,17 @@
 |-----------|----|--------|-------------------|------------------------|-----------------------|---------------|----|
 |ENERGY MODELING|SEC 597|Fall|3               |0                       |0                      |3              |3   |
 
-Prerequisites
-
-Undergraduate mathematics including linear algebra and differential equations
-
-Course language
-
-English
-
-Course type
-
-Elective
-
-Learning and teaching strategies
-
-The course material mainly consists of lecture notes, reports and journal articles. MESSAGE (Model for Energy Supply Strategies and their General Environmental Impacts) will be distributed to students and used for hands-on modeling of demo cases presented during the course. Students are required to come to class well prepared and expected to actively participate in class discussions. Grading will be done using several quizzes and a student presentation on the selected research paper.
-
-Instructor (s)
-
-Görkem Güngör (BS in Nuclear Engineering, MS in Earth System Science)
-
-Course objective
-
-Energy experts use methods and tools for evaluation of energy and climate policies. Policy analysis on energy activities and climate impacts requires understanding of the economics, technologies and social behavior. Energy modeling can guide utilities and policy makers for efficient usage of energy and capital resources. This course aims to provide an introduction to energy economics and as inter-disciplinary field and methods and tools used by energy modeling experts. 
-
-Learning outcomes
-
-After taking this course the students will have the benefit of understanding of the concepts that energy experts would usually encounter for developing and implementing energy and climate strategies.
-
-Course Content
-
-Energy economics; energy and climate strategies; energy modeling; energy cost optimization; demand and supply load regions; hydro and renewable energy generation; nuclear power and fuel cycle will be discussed.
-
-References
-
-Course material will be provided to the students.
+|Specifications|Description|
+|--------------|-----------|
+|Prerequisites |Undergraduate mathematics including linear algebra and differential equations|
+|Course language|English|
+|Course type|Elective|
+|Learning and teaching strategies|The course material mainly consists of lecture notes, reports and journal articles. MESSAGE (Model for Energy Supply Strategies and their General Environmental Impacts) will be distributed to students and used for hands-on modeling of demo cases presented during the course. Students are required to come to class well prepared and expected to actively participate in class discussions. Grading will be done using several quizzes and a student presentation on the selected research paper.|
+|Instructor (s)|Görkem Güngör (BS in Nuclear Engineering, MS in Earth System Science)|
+|Course objective|Energy experts use methods and tools for evaluation of energy and climate policies. Policy analysis on energy activities and climate impacts requires understanding of the economics, technologies and social behavior. Energy modeling can guide utilities and policy makers for efficient usage of energy and capital resources. This course aims to provide an introduction to energy economics and as inter-disciplinary field and methods and tools used by energy modeling experts.|
+|Learning outcomes|After taking this course the students will have the benefit of understanding of the concepts that energy experts would usually encounter for developing and implementing energy and climate strategies.|
+|Course Content|Energy economics; energy and climate strategies; energy modeling; energy cost optimization; demand and supply load regions; hydro and renewable energy generation; nuclear power and fuel cycle will be discussed.|
+|References|Course material will be provided to the students.|
 
  
 
