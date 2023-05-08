@@ -1,54 +1,16 @@
-HACETTEPE UNIVERSITY
+# HACETTEPE UNIVERSITY
 
-ELECTIVE COURSES UNIT COORDINATORSHIP
-
- 
-
-Course Information
+## ELECTIVE COURSES UNIT COORDINATORSHIP
 
  
 
-Course Name
+## Course Information
 
-Code
+ 
 
-Semester
-
-Theory
-
-(hours/week)
-
-Application
-
-(hours/week)
-
-Laboratory
-
-(hours/week)
-
-National
-
-Credit
-
-ECTS
-
-ENERGY MODELING
-
-SEC
-
-597
-
-Fall
-
-3
-
-0
-
-0
-
-3
-
-3
+|Course Name|Code|Semester|Theory (hours/week)|Application (hours/week)|Laboratory (hours/week)|National Credit|ECTS|
+|-----------|----|--------|-------------------|------------------------|-----------------------|---------------|----|
+|ENERGY MODELING|SEC 597|Fall|3               |0                       |0                      |3              |3   |
 
 Prerequisites
 
