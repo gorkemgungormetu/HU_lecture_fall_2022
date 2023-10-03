@@ -6,7 +6,7 @@ The installation steps are outlined below:
 
 ## GAMS installation
 
-MESSAGE-ix requires a GAMS solver and license for optimization. After applying for a student's license to sales@gams.com, the license file is retrieved from https://portal.gams.com/ using the username and password provided.
+MESSAGE-ix requires a GAMS solver and license for optimization. After applying for a student's license to sales@gams.com, the license file is retrieved from https://portal.gams.com/ using the username and password provided. Another way is to request a demo license from https://www.gams.com/try_gams/.
 
 During installation, select `Advanced` mode and add GAMS to the `PATH`. 
 
