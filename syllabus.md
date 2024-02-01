@@ -36,12 +36,12 @@
 |2.|Introduction to Energy Economics|
 |3.|Energy and Climate Strategies|
 |4.|Energy and Climate Modelling Methods And Tools|
-|5.|Introduction to MESSAGE and Running a Model|
-|6.|Modeling and Optimizing an Energy Supply System|
-|7.|Introduction to Load Regions and User Defined Constaints|
-|8.|Representing a Hydro-Power System|
-|9.|Representing a Nuclear Reactor with Fuel Cycle|
-|10.|Environmental Constraints and Penalties|
+|5.|Introduction to MESSAGE-V and Running a Model|
+|6.|Introduction to MESSAGEix and Running a Model|
+|7.|Modeling and Optimizing an Energy Supply System|
+|8.|Introduction to Integrated Assessment Modeling|
+|9.|Representing a Nuclear Reactor Fuel Cycle
+|10.|Social Sciences and Humanities for Advancing Energy and Climate Policies|
 |11.|Introduction to National Energy Supply System Modeling|
 |12.|Interregional Energy and Climate Modeling Studies|
 |13.|Final exam (Student presentations) – 1st Group|
